@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-**Live URL:** https://backend-development-labs.onrender.com/
+**Live URL:** https://backend-development-labs-cxwz.onrender.com/
 
 > After deploying the server, replace this placeholder with your public URL. If deployment is not possible, provide Postman screenshots of all endpoints as required by the lab instructions.
 
@@ -62,7 +62,7 @@ Make sure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <https://github.com/geethakrishnakumbha/BACKEND-DEVELOPMENT-LABS.git>
+git clone <https://github.com/nsricharan01-design/BACKEND-DEVELOPMENT-LABS.git>
 ```
 
 Navigate to the lab directory:
